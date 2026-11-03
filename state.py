@@ -1,4 +1,4 @@
-from __future__
+from __future__ import annotations
 class GameState:
     def __init__(self) -> None:
         self.turn = 0
